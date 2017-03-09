@@ -1,0 +1,34 @@
+div.cities {
+
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+
+} 
+
+
+.country {
+
+	color: red;
+	margin: 3px;
+	padding: 1px;
+	background-color: #00FF00;
+}
+
+img {
+
+	
+	border-radius: 50%; 
+}
+
+.centrar {
+
+	margin-left: 50%;
+}
+
+#titulo	{
+
+	text-align: center;
+	text-shadow: 3px 2px red; 
+}
